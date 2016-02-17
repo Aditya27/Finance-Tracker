@@ -9,6 +9,8 @@ gem 'sass-rails', '~> 5.0'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+#Use stock_quote to obatin stock information provided by Yahoo
+gem 'stock_quote'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
